@@ -6,26 +6,7 @@ CSS Grid for the feature cards.
 
 ## Preview
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│ StudyMate   Home Features Courses About Contact   [Search] Login ▸   │  ← dark navbar
-├──────────┬───────────────────────────────────────────────────────────┤
-│ Menu     │  ┌─────────────────────────────────────────────────────┐  │
-│ Dashboard│  │ Learn Today                                         │  │
-│ My Cours.│  │ Build Tomorrow          (hero background image)     │  │
-│ Assignm. │  │ Access high-quality educational resources...        │  │
-│ Resources│  │ [ Get Started ]  [ Learn More ]                     │  │
-│ Settings │  └─────────────────────────────────────────────────────┘  │
-│ Help     │                                                           │
-│ ─────────│  Our Features                                             │
-│ Others   │  Everything you need to stay on track.                    │
-│ Blog     │  ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐             │
-│ Feedback │  │Interact│ │Progress│ │Personal│ │Communit│             │
-│          │  └────────┘ └────────┘ └────────┘ └────────┘             │
-├──────────┴───────────────────────────────────────────────────────────┤
-│ © 2025 StudyMate.   Privacy · Terms · Contact   Keep Learning...     │  ← dark footer
-└──────────────────────────────────────────────────────────────────────┘
-```
+![StudyMate landing page](images/screenshot.png)
 
 ## Sections
 
@@ -61,8 +42,10 @@ CSS Grid for the feature cards.
 Landing-Page/
 ├── index.html      # page markup
 ├── style.css       # all styling
+├── README.md
 └── images/
-    ├── hero.png    # hero background
+    ├── hero.png        # hero background
+    ├── screenshot.png  # preview above
     └── desk.png
 ```
 
